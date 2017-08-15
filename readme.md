@@ -16,6 +16,7 @@
 	1. http://blog.csdn.net/u011687186/article/details/53024522
 	2. http://blog.csdn.net/tdcqfyl/article/details/51992758
 	3. http://cnt1992.xyz/2016/03/18/simple-intro-to-nginx/（推荐）
+	4. http://www.nginx.cn/doc/
 ===================================================================
 
 #####js判断移动端是否安装某款app
